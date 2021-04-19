@@ -12,7 +12,7 @@ la ubicación del ejecutable se encuentra enla carpeta Build.
 -------
 # v1.0 
 
-#pendientes
+# pendientes
 
 Quedó sin desarrollar el sistema de salto en la pista por falta de tiempo.
 
